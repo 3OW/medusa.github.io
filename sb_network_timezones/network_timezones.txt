@@ -7,6 +7,7 @@
 111 Greats (AU):Australia/Sydney
 13 רשת:Asia/Jerusalem
 13TH STREET (AU):Australia/Sydney
+13th Street:Europe/Berlin
 13e rue:Europe/Paris
 13th Street (NL):Europe/Amsterdam
 13th Street Germany:Europe/Berlin
@@ -225,6 +226,7 @@ Argos TV (UK):Europe/London
 Arizona Capitol Television (US):US/Eastern
 Arizona NewsChannel (US):US/Eastern
 Arte Creative:Europe/Paris
+arte:Europe/Berlin
 Arte:Europe/Paris
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
@@ -1158,6 +1160,7 @@ Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
 Joyn (Germany):Europe/Berlin
+Joyn:Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
 Jupiter Broadcasting:US/Eastern
@@ -1478,6 +1481,7 @@ NHK:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
+NITRO:Europe/Berlin
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
@@ -1694,12 +1698,14 @@ PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
 Premier Sports (UK):Europe/London
 Premiere (DE):Europe/Berlin
+Premiere Film:Europe/Berlin
 Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
 Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
+Prime Video:Europe/Berlin
 Primetime (UK):Europe/London
 ProSieben Fun:Europe/Berlin
 ProSieben MAXX:Europe/Berlin
@@ -1768,6 +1774,7 @@ RTL Klub:Europe/Budapest
 RTL Nitro (DE):Europe/Berlin
 RTL Nitro:Europe/Berlin
 RTL Passion (DE):Europe/Berlin
+RTL Passion:Europe/Berlin
 RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
@@ -1855,6 +1862,7 @@ SABC3:Africa/Johannesburg
 SAMAA TV (UK):Europe/London
 SAS (AU):Australia/Sydney
 SAT.1:Europe/Berlin
+Sat.1 Gold:Europe/Berlin
 SBS (AU):Australia/Sydney
 SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
@@ -1864,6 +1872,7 @@ SBS:Asia/Seoul
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
 SEC ESPN NETWORK (US):US/Eastern
+ServusTV:Europe/Berlin
 SES (AU):Australia/Sydney
 SET MAX:Asia/Kolkata
 SET Max (UK):Europe/London
@@ -1892,6 +1901,8 @@ SKY Racing (AU):Australia/Sydney
 SKY Ringside (AU):Australia/Sydney
 SNN LOCAL NEWS (US):US/Eastern
 SOAPnet:US/Eastern
+Sony AXN:Europe/Berlin
+Sony Channel:Europe/Berlin
 SONY ENTERTAINMENT TELEVISION (UK):Europe/London
 SONY MOVIE CHANNEL (US):US/Eastern
 SONY Movie Channel (UK):Europe/London
@@ -2006,6 +2017,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Comedy:Europe/London
+Sky Crime:Europe/Berlin
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
 Sky Go (DE):Europe/Berlin
@@ -2178,6 +2190,7 @@ TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
+TNT Comedy:Europe/Berlin
 TNT España:Europe/Madrid
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
@@ -2240,6 +2253,7 @@ TV Markíza (SK):Europe/Bratislava
 TV Net:Europe/Istanbul
 TV Norge:Europe/Oslo
 TV Nova:Europe/Prague
+TV NOW:Europe/Berlin
 TV ONE:Pacific/Auckland
 TV One (NZ):Pacific/Auckland
 TV One (US):US/Eastern
@@ -2465,6 +2479,7 @@ UNIVERSAL CHANNEL (AU):Australia/Sydney
 UNIVERSAL CHANNEL (UK):Europe/London
 UNIVERSAL HD (US):US/Eastern
 UNIVERSAL SPORTS NETWORK (US):US/Eastern
+Universal TV:Europe/Berlin
 UNTAMED SPORTS tv (US):US/Eastern
 UNTV (US):US/Eastern
 UNTV 37:Asia/Manila
@@ -2576,6 +2591,7 @@ W Network:Canada/Eastern
 W9:Europe/Paris
 W:Australia/Sydney
 WAPA-TV (US):US/Eastern
+WarnerTV Comedy:Europe/Berlin
 WATCH Disney Junior:US/Eastern
 WATCH Disney XD:US/Eastern
 WB (CA):Canada/Eastern
