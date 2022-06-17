@@ -2593,6 +2593,7 @@ W9:Europe/Paris
 W:Australia/Sydney
 WAPA-TV (US):US/Eastern
 WarnerTV Comedy:Europe/Berlin
+WarnerTV Serie:Europe/Berlin
 WATCH Disney Junior:US/Eastern
 WATCH Disney XD:US/Eastern
 WB (CA):Canada/Eastern
