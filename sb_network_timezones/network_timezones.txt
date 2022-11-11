@@ -1653,7 +1653,7 @@ Pakistan Television Corporation (PK):Asia/Karachi
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paramount+:US/Eastern
-Paramount+:Europe/Berlin
+Paramount+ (DE):Europe/Berlin
 Paravi:Asia/Tokyo
 Paris Première (FR):Europe/Paris
 Pastor Scott (US):US/Eastern
