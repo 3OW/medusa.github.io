@@ -2674,6 +2674,7 @@ ZDF:Europe/Berlin
 ZDFinfo:Europe/Berlin
 ZDFmediathek:Europe/Berlin
 ZDFneo:Europe/Berlin
+ZDF/Arte:Europe/Berlin
 ZDTV (CA):Canada/Eastern
 ZED:Canada/Eastern
 ZEE TV (UK):Europe/London
