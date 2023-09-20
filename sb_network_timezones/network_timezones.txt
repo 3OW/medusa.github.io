@@ -948,6 +948,8 @@ France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
 Freeform:US/Eastern
+Freevee:Europe/Berlin
+Freevee (US):US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
