@@ -150,6 +150,7 @@ AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
 AXN España:Europe/Madrid
 AXN:US/Eastern
+AXN White:Europe/Berlin
 AXS TV:US/Eastern
 AXStv (US):US/Eastern
 AZN Television (US):US/Eastern
