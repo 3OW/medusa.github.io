@@ -424,6 +424,7 @@ CHCH-TV:Canada/Eastern
 CHELSEA TV (UK):Europe/London
 CI:Australia/Sydney
 CITV:Europe/London
+Clipfish:Europe/Berlin
 CLTV (US):US/Eastern
 CMC (AU):Australia/Sydney
 CMT (CA):Canada/Eastern
@@ -1192,6 +1193,7 @@ KTN:Asia/Karachi
 KTV (JP):Asia/Tokyo
 KTV:Africa/Nairobi
 KYW-TV (US):US/Eastern
+kabel eins:Europe/Berlin
 Kabel1 (DE):Europe/Berlin
 Kampüs TV:Europe/Istanbul
 Kan 11:Asia/Jerusalem
@@ -1702,6 +1704,7 @@ Pop:US/Eastern
 PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
 Premier Sports (UK):Europe/London
+Premiere:Europe/Berlin
 Premiere (DE):Europe/Berlin
 Premiere Film:Europe/Berlin
 Press TV:Asia/Tehran
@@ -2615,6 +2618,7 @@ WNL:Europe/Amsterdam
 WORD Network (US):US/Eastern
 WORLD (US):US/Eastern
 WORLD MOVIES (AU):Australia/Sydney
+WOW:Europe/Berlin
 WOW (AU):Australia/Sydney
 WOW (DE):Europe/Berlin
 WOW Presents Plus:US/Eastern
@@ -2835,6 +2839,7 @@ nickelodeon (CA):Canada/Eastern
 nickelodeon (UK):Europe/London
 nova (CZ):Europe/Prague
 oksusu:Asia/Seoul
+One:Europe/Berlin
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
