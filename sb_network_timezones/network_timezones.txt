@@ -1177,7 +1177,6 @@ KBS World:Asia/Seoul
 KBS:Asia/Seoul
 KCET:US/Eastern
 KICC TV (UK):Europe/London
-KIKA:Europe/Berlin
 KING-TV (US):US/Eastern
 KKTV:Asia/Taipei
 KMTV (UK):Europe/London
